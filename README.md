@@ -5,5 +5,4 @@ it also uses tradingview-ta library to fetch the given stock price details ,then
 and twilio only sends sms to the verified numbers on this site - twilio.com/user/account/phone-numbers/verified , so get the receiver's number verified on it .
 Once you have done all the steps ,your trading bot can send the sms to other person .
 
-![image](https://user-images.githubusercontent.com/78251506/219942219-462f316a-d13b-4f4c-9bb4-0cfd79b1489e.png)
-   Here i have used tesla stock , you can experiment with any stock .
+![image](https://user-images.githubusercontent.com/78251506/219942219-462f316a-d13b-4f4c-9bb4-0cfd79b1489e.png) Here i have used tesla stock , you can experiment with any stock .
